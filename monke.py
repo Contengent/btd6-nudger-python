@@ -5,7 +5,7 @@ from pynput.mouse import Controller
 # simplify Controller()
 mouse = Controller()
 
-# I honestly don't know what any of this does lol
+# I honestly don't remember what any of this does lol
 def movie(key):
     def contral(kii, x, y):
         if key == kii:
